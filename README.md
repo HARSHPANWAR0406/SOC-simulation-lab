@@ -122,5 +122,5 @@ Folders are added only as each phase is actually implemented — not created emp
 
 ## Author
 
-**Anuj Kumar**
-*(https://linkedin.com/in/anuj-kumar-p / [https://github.com/HARSHPANWAR0406](https://github.com/HARSHPANWAR0406))*
+**Harsh Panwar**
+*([https://linkedin.com/in/harshpanwar0406/](https://www.linkedin.com/in/harshpanwar0406/) / [https://github.com/HARSHPANWAR0406](https://github.com/HARSHPANWAR0406))*
